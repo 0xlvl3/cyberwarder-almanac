@@ -6,11 +6,19 @@ This aims to be a list dedicated to helping within CTFs.
 
 --
 
-Contents
-    - Recon
-        - Nmap
+## Contents
+* Common Ports List
+
+* Recon
+    * Nmap
 
 --
+
+## Common Ports List
+| Port | Protocol | Description|
+|------|------|------------|
+|20/21 | FTP| File Transfer Protocol|
+| 22| SSH | Secure Shell|
 
 
 ## Recon
