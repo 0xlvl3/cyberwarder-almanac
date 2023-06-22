@@ -14,12 +14,34 @@ This aims to be a list dedicated to helping within CTFs.
 
 --
 
+
 ## Common Ports List
+Fill in descriptions -
 | Port | Protocol | Description|
 |------|------|------------|
 |20/21 | FTP| File Transfer Protocol|
-| 22| SSH | Secure Shell|
-
+|22| SSH | Secure Shell|
+|22|SFTP| Secure File Transfer Protocol|
+|23|Telnet| Telnet|
+|25|SMTP|Simple Mail Transfer Protocol|
+|53|DNS| Domain Name System|
+|67/68|DHCP|Dynamic Host Configuration Protocol|
+|69|TFTP|Trivail Transfer Protocol|
+|80|HTTP|HyperText Transfer Protocol|
+|110|POP3| Post Office Protocol V3|
+|123|NTP|Network Time Protocol|
+|143|IMAP|Internet Message Access Protocol|
+|161/162|SNMP|Simple Network Management Protocol|
+|389|LDAP|Lightweight Directory Access Protocol|
+|443|HTTPS|HyperText Transfer Protocol Secure|
+|445|SMB|Server Message Block|
+|514|Syslog| Syslog|
+|587|SMTP TLS| SMTP TLS|
+|636|LDAPS|Lightweight Directory Access Protocol(over SSL)|
+|1433|SQL|Structured Query Language Server|
+|1521||SQLnet|SQLnet|
+|3306|MySQL|MySQL|
+|3389|RDP|Remote Desktop Protocol|
 
 ## Recon
 
